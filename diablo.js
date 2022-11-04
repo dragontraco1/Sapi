@@ -224,7 +224,7 @@ case 'vipmenu':
 let uptime = await runtime(process.uptime())
 jiren = ` 
 亗╭┬─────────────────┈ 
-亗├ 「 PREMIUM BOT 」
+亗├ 「VIP SAMBELSETAN•BOT」
 亗├──────────────────┈
 亗├ • ${prefix}bug1 (62xxx)
 亗├ • ${prefix}bug2 (62xxx)
@@ -251,11 +251,14 @@ jiren = `
 亗├──────────────────┈
 亗├ 「pricelist bot lain」
 亗├ -UBAH WA JADI BOT 100K
-亗├ -SEWA 55K
-亗├ -JADI MEMBER 35K
+亗├ -JADI MEMBER 15K
 亗├  BISA KUNJUNGI WA 
 亗├  wa.me/6289636602834
 亗├──────────────────┈
+
+
+
+
 `
 diablobotwhatsapp.reply(jiren)
 break
